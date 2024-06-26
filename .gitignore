@@ -1,0 +1,6 @@
+/.DS_Store
+/.venv
+/Data
+/Dataset
+/test.py
+/Custom_Pneumothorax_classification.h5
